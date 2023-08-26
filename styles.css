@@ -58,6 +58,12 @@ footer {
     }
 }
 
+/* New color scheme */
+/* Sage Green */
+.sage-green {
+    color: #8FBC8F;
+}
+
 /* Placeholder for royalty-free graphics */
 /* Replace these with actual image URLs or file paths */
 #about::before {
